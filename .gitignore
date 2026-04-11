@@ -1,0 +1,6 @@
+documents/*.pdf
+documents/*.jpg
+documents/*.png
+patient-data/sessions/
+patient-data/archive/
+memory/

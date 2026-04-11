@@ -1,36 +1,36 @@
-# Углублённые правила дифференциальной диагностики (AMDA)
+# Advanced Differential Diagnosis Rules (AMDA)
 
-Применяйте строго на этапе 3 (формирование предварительных диагнозов) и при каждом пересчёте вероятностей.
+Apply strictly at stage 3 (preliminary diagnosis formulation) and at every probability recalculation.
 
-## Обязательные шаги
+## Mandatory Steps
 
-**Шаг 1.** Выделите ведущие симптомы и их характеристики. Сравните с классическими паттернами заболеваний.
+**Step 1.** Identify the leading symptoms and their characteristics. Compare against classic disease patterns.
 
-**Шаг 2.** Для каждого потенциального диагноза явно укажите:
-- Данные, которые **подтверждают** (positive findings).
-- Данные, которые **исключают** или снижают вероятность (negative findings, red flags).
-- Негативные симптомы (то, чего нет, но должно быть).
+**Step 2.** For each potential diagnosis, explicitly state:
+- Data that **supports** it (positive findings).
+- Data that **excludes** it or reduces its probability (negative findings, red flags).
+- Negative symptoms (what is absent but should be present).
 
-**Шаг 3.** Принцип «common things are common»:
-- Сначала рассматривайте наиболее распространённые заболевания для возраста, пола, региона и факторов риска.
-- Редкие диагнозы — только при сильных подтверждающих данных или исключении распространённых.
+**Step 3.** Apply the "common things are common" principle:
+- First consider the most prevalent conditions for the patient's age, sex, region, and risk factors.
+- Rare diagnoses only when there is strong supporting evidence or common diagnoses have been ruled out.
 
-**Шаг 4.** Строите дифференциальный ряд:
-- Топ-3 самых вероятных.
-- Менее вероятные, но требующие исключения.
-- Редкие / «не пропустить» (red-flag диагнозы).
+**Step 4.** Build the differential series:
+- Top 3 most probable diagnoses.
+- Less probable but must-exclude diagnoses.
+- Rare / "must not miss" diagnoses (red-flag diagnoses).
 
-**Шаг 5.** Качественный Bayesian-подход:
-- Учитывайте превалентность в популяции.
-- Личные факторы риска (возраст, пол, коморбидности, наследственность, вредные привычки).
-- Чувствительность и специфичность ключевых симптомов/тестов.
+**Step 5.** Qualitative Bayesian approach:
+- Account for population prevalence.
+- Personal risk factors (age, sex, comorbidities, heredity, lifestyle habits).
+- Sensitivity and specificity of key symptoms/tests.
 
-**Шаг 6.** Всегда отдельно выделяйте **red flags** и alarm symptoms (см. red-flags.md).
+**Step 6.** Always separately highlight **red flags** and alarm symptoms (see red-flags.md).
 
-## Требования к списку диагнозов
-- Не более 7–8 (оптимально 5–6).
-- Для каждого: название (с кодом МКБ-10/МКБ-11 при возможности), % вероятности (сумма = 100%), краткое обоснование с логикой включения/исключения, уровень уверенности (низкий/средний/высокий).
+## Diagnosis List Requirements
+- No more than 7–8 diagnoses (optimally 5–6).
+- For each: name (with ICD-10/ICD-11 code where possible), probability % (sum = 100%), brief rationale with inclusion/exclusion logic, confidence level (low / medium / high).
 
-Используйте логику исключения. При пересчёте вероятностей после новых данных повторяйте все шаги.
+Use elimination logic. When recalculating probabilities after new data, repeat all steps.
 
-После любого существенного обновления данных (новый анамнез, анализ документа, пересчёт вероятностей) обновляй файл patient-data/current-patient.md и создавай/дополняй запись в patient-data/sessions/.
+After any significant data update (new anamnesis, document analysis, probability recalculation) update patient-data/current-patient.md and create or append a record in patient-data/sessions/.

@@ -1,22 +1,22 @@
-# Правила приоритизации дополнительных исследований (AMDA)
+# Additional Investigation Prioritization Rules (AMDA)
 
-## Главный критерий приоритета
-Исследование, которое:
-- Исключает максимальное количество предполагаемых диагнозов одновременно.
-- Подтверждает или опровергает ведущий диагноз.
-- Сокращает общее количество будущих тестов (высокая информативность + доступность).
+## Primary Priority Criterion
+The investigation that:
+- Rules out the maximum number of suspected diagnoses simultaneously.
+- Confirms or refutes the leading diagnosis.
+- Reduces the total number of future tests needed (high informativeness + accessibility).
 
-## Дополнительные критерии (в порядке важности)
-1. Срочность (red flags → экстренно).
-2. Неинвазивность и безопасность для пациента.
-3. Стоимость и доступность (в условиях РФ).
-4. Чувствительность/специфичность теста в данном контексте.
+## Secondary Criteria (in order of importance)
+1. Urgency (red flags → emergency).
+2. Non-invasiveness and patient safety.
+3. Cost and accessibility.
+4. Sensitivity/specificity of the test in this clinical context.
 
-## Формат списка
-Нумерованный список в порядке убывания приоритета. Для каждого исследования:
-- Название и код (если есть).
-- Цель (что исключаем/подтверждаем).
-- Ожидаемое влияние на список диагнозов.
-- Срочность (экстренно / планово / в течение Х дней).
+## List Format
+A numbered list in descending order of priority. For each investigation:
+- Name and code (if applicable).
+- Purpose (what is being ruled out / confirmed).
+- Expected impact on the diagnosis list.
+- Urgency (emergency / routine / within X days).
 
-Всегда объясняйте, почему именно этот тест стоит первым.
+Always explain why a particular test is ranked first.

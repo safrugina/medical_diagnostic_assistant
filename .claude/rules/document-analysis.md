@@ -1,40 +1,40 @@
-# Правила анализа медицинских документов (AMDA)
+# Medical Document Analysis Rules (AMDA)
 
-## Обязательный порядок разбора
-При получении новых файлов в папке `./documents/` (PDF, JPG, PNG, DOCX и др.):
+## Mandatory Analysis Order
+When new files are received in the `./documents/` folder (PDF, JPG, PNG, DOCX, etc.):
 
-1. Укажите название файла, тип документа и дату (если есть).
-2. **Автоматически активируйте мультимодальный анализ и OCR** Claude:
-   - Для PDF: используйте как текстовое извлечение, так и визуальный анализ каждой страницы.
-   - Для изображений (JPG, PNG, фото бланков): выполните **полноценное распознавание текста (OCR)**.
-   - Если текст извлёкся плохо или документ выглядит как скан/фото — явно укажите: «Выполняю OCR-распознавание текста и таблиц».
+1. State the file name, document type, and date (if available).
+2. **Automatically activate multimodal analysis and OCR** in Claude:
+   - For PDFs: use both text extraction and visual analysis of each page.
+   - For images (JPG, PNG, scanned forms): perform **full text recognition (OCR)**.
+   - If text extraction is poor or the document appears to be a scan/photo — explicitly state: "Performing OCR recognition of text and tables."
 
-3. Выделите **все ключевые показатели** с референсными значениями (используйте docs/common-lab-reference.md).
-4. Отметьте отклонения (↑/↓/в норме) и их клиническое значение.
-5. Сохраните данные в структурированном виде (таблицы Markdown).
+3. Identify **all key indicators** with reference values (use docs/common-lab-reference.md).
+4. Mark deviations (↑ / ↓ / within normal range) and their clinical significance.
+5. Save data in structured form (Markdown tables).
 
-## Специальные правила распознавания текста (OCR)
+## Special Text Recognition (OCR) Rules
 
-**Всегда выполняйте следующие шаги при анализе:**
+**Always perform the following steps during analysis:**
 
-- **Если документ — изображение или отсканированный PDF** (плохо извлекается текст):
-  - Выполните детальное OCR-распознавание всего видимого текста.
-  - Точно транскрибируйте таблицы: столбцы «Показатель», «Результат», «Референс», «Ед. изм.».
-  - Сохраняйте расположение данных (например, «Гемоглобин 142 г/л (130–170)»).
-  - Если есть рукописный текст или штампы лаборатории — укажите это явно.
+- **If the document is an image or a scanned PDF** (poor text extraction):
+  - Perform detailed OCR recognition of all visible text.
+  - Accurately transcribe tables: columns "Parameter", "Result", "Reference", "Units".
+  - Preserve data layout (e.g., "Hemoglobin 142 g/L (130–170)").
+  - If handwritten text or laboratory stamps are present — note this explicitly.
 
-- **Если качество распознавания низкое** (размыто, низкое разрешение, сильный наклон):
-  - Сообщите: «Качество изображения низкое, возможны ошибки OCR. Рекомендуется перефотографировать бланк с лучшим освещением и разрешением ≥1000×1000 px.»
-  - Всё равно предоставьте максимально полную транскрипцию.
+- **If recognition quality is low** (blurry, low resolution, heavy tilt):
+  - Report: "Image quality is low; OCR errors are possible. It is recommended to retake the photo with better lighting and a resolution of ≥ 1000 × 1000 px."
+  - Still provide the most complete transcription possible.
 
-- **Для многостраничных документов**:
-  - Укажите «Страница X из Y».
-  - Объединяйте данные из всех страниц в единую структурированную таблицу.
+- **For multi-page documents**:
+  - State "Page X of Y".
+  - Consolidate data from all pages into a single structured table.
 
-## Формат вывода
-Всегда используйте таблицу:
-| Показатель | Результат | Референсные значения | Отклонение | Клиническое значение |
+## Output Format
+Always use the following table:
+| Parameter | Result | Reference Values | Deviation | Clinical Significance |
 
-После любого существенного обновления данных (новый анамнез, анализ документа, пересчёт вероятностей) обновляй файл patient-data/current-patient.md и создавай/дополняй запись в patient-data/sessions/.
+After any significant data update (new anamnesis, document analysis, probability recalculation) update patient-data/current-patient.md and create or append a record in patient-data/sessions/.
 
-**Запрещено** переходить к формированию диагнозов, пока не будет выполнен полный разбор всех загруженных документов.
+**It is prohibited** to proceed to diagnosis formulation until all uploaded documents have been fully analyzed.

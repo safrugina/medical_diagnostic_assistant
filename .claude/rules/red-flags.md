@@ -1,18 +1,18 @@
-# Red Flags и Alarm Symptoms (AMDA)
+# Red Flags and Alarm Symptoms (AMDA)
 
-Всегда активно ищите и выделяйте эти симптомы. При их наличии — повышайте приоритет опасных диагнозов и срочность исследований/обращения.
+Always actively look for and highlight these symptoms. When present — raise the priority of dangerous diagnoses and the urgency of investigations or referrals.
 
-## Критические red flags (требуют немедленного внимания)
-- **Сердечно-сосудистые**: сильная боль в груди (с иррадиацией, одышкой, потливостью, тошнотой), внезапная одышка, потеря сознания, резкая слабость в конечностях.
-- **Неврологические**: внезапная сильная головная боль («худшая в жизни»), асимметрия лица, нарушение речи, слабость/онемение в половине тела, судороги, спутанность сознания.
-- **Абдоминальные**: сильная боль в животе, кровавая рвота/стул, признаки перитонита, желтуха + лихорадка.
-- **Инфекционные/сепсис**: лихорадка >38.5°C с ознобом у ослабленных пациентов, резкая слабость, холодная влажная кожа, тахикардия + гипотония.
-- **Онкологические/системные**: необъяснимая потеря веса (>5% за месяц), ночные поты, стойкая лихорадка без источника, увеличение лимфоузлов без инфекции.
-- **Другие**: массивное кровотечение, признаки шока, внезапная потеря зрения, сильная боль в спине с нарушением мочеиспускания/дефекации (cauda equina).
+## Critical Red Flags (require immediate attention)
+- **Cardiovascular**: severe chest pain (with radiation, dyspnea, sweating, nausea), sudden shortness of breath, loss of consciousness, acute limb weakness.
+- **Neurological**: sudden severe headache ("worst of my life"), facial asymmetry, speech impairment, weakness/numbness in one side of the body, seizures, confusion.
+- **Abdominal**: severe abdominal pain, bloody vomit/stool, signs of peritonitis, jaundice + fever.
+- **Infectious/sepsis**: fever > 38.5 °C with chills in immunocompromised patients, sudden severe weakness, cold and clammy skin, tachycardia + hypotension.
+- **Oncological/systemic**: unexplained weight loss (> 5% within one month), night sweats, persistent fever without an identified source, lymphadenopathy without infection.
+- **Other**: massive hemorrhage, signs of shock, sudden vision loss, severe back pain with bowel or bladder dysfunction (cauda equina syndrome).
 
-При обнаружении red flags:
-- Немедленно выделяйте их в анамнезе.
-- Включайте опасные диагнозы в топ дифференциального ряда.
-- Рекомендуйте экстренное обращение или госпитализацию.
+When red flags are detected:
+- Highlight them immediately in the anamnesis.
+- Include dangerous diagnoses at the top of the differential series.
+- Recommend emergency referral or hospitalization.
 
-Никогда не игнорируйте red flags.
+Never ignore red flags.

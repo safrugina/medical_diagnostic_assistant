@@ -1,32 +1,32 @@
-# Правила хранения данных пациента (AMDA)
+# Patient Data Storage Rules (AMDA)
 
-## Основной принцип
-Все данные пациента и промежуточные результаты диагностики хранятся **исключительно в файлах** проекта в папке `patient-data/`.  
-Это обеспечивает полную statefulness между сессиями.
+## Core Principle
+All patient data and intermediate diagnostic results are stored **exclusively in project files** within the `patient-data/` folder.
+This ensures full statefulness between sessions.
 
-## Обязательные действия агента
+## Mandatory Agent Actions
 
-1. **При старте новой сессии**  
-   - Прочитай `patient-data/current-patient.md` полностью.  
-   - Если файл отсутствует — создай его с шаблоном.
+1. **At the start of a new session**
+   - Read `patient-data/current-patient.md` in full.
+   - If the file does not exist — create it using the template.
 
-2. **После каждого этапа цикла** (анамнез, анализ документов, формирование диагнозов, пересчёт вероятностей):
-   - Обнови `patient-data/current-patient.md` (структурированные разделы 1–7).
-   - Создай или дополни файл сессии с текущей датой/временем в `patient-data/sessions/`.
-   - Кратко обнови `memory/diagnostic-log.md`.
+2. **After each cycle stage** (anamnesis, document analysis, diagnosis formulation, probability recalculation):
+   - Update `patient-data/current-patient.md` (structured sections 1–7).
+   - Create or append a session file with the current date/time in `patient-data/sessions/`.
+   - Briefly update `memory/diagnostic-log.md`.
 
-3. **При достижении финального диагноза (≥90%)**  
-   - Перенеси текущий файл в `patient-data/archive/` с финальной версией.
-   - Очисти `current-patient.md` или подготовь шаблон для следующего пациента.
+3. **Upon reaching a final diagnosis (≥ 90%)**
+   - Move the current file to `patient-data/archive/` with the final version.
+   - Clear `current-patient.md` or prepare a template for the next patient.
 
-## Формат хранения
-- Используй только Markdown с чёткими заголовками и таблицами.
-- Никогда не храни чувствительные данные (ФИО, паспортные данные) в открытом виде без согласия пользователя. Рекомендуй использовать анонимизированный ID (Пациент_2026_001).
-- Всегда сохраняй историю изменений — не перезаписывай старые сессии.
+## Storage Format
+- Use only Markdown with clear headings and tables.
+- Never store sensitive data (full name, passport details) in plain text without user consent. Recommend using an anonymized ID (Patient_2026_001).
+- Always preserve change history — do not overwrite old sessions.
 
-## Безопасность и конфиденциальность
-- Напоминай пользователю, что данные хранятся локально на его компьютере.
-- Не загружай данные пациента в внешние сервисы.
-- При запросе пользователя на удаление данных — удали файлы из `patient-data/`.
+## Security and Privacy
+- Remind the user that data is stored locally on their computer.
+- Do not upload patient data to external services.
+- If the user requests data deletion — remove the files from `patient-data/`.
 
-Это правило имеет высший приоритет. Никогда не игнорируй обновление `current-patient.md`.
+This rule has the highest priority. Never skip updating `current-patient.md`.

@@ -1,16 +1,16 @@
-# Правила финального диагноза и рекомендаций (AMDA)
+# Final Diagnosis and Recommendations Rules (AMDA)
 
-Переходите к этому режиму только когда хотя бы один диагноз достиг ≥90% вероятности.
+Transition to this mode only when at least one diagnosis has reached ≥ 90% probability.
 
-## Обязательный вывод
-- Основной диагноз (с кодом МКБ при возможности).
-- Ключевые подтверждающие данные (симптомы + лабораторные/инструментальные находки).
-- Дифференциальные диагнозы (с текущими вероятностями и почему исключены).
+## Mandatory Output
+- Primary diagnosis (with ICD code where possible).
+- Key confirming data (symptoms + laboratory/instrumental findings).
+- Differential diagnoses (with current probabilities and reasons for exclusion).
 
-## Рекомендации (чётко и структурировано)
-- К какому специалисту обратиться и в какие сроки (экстренно / в течение 1–3 дней / планово).
-- Предлагаемый курс терапии (только общие схемы, если известны из рекомендаций; без конкретных дозировок лекарств до консультации врача).
-- Дополнительные меры (госпитализация, обследование в стационаре, диета, режим).
-- Контрольные показатели и сроки повторного обследования.
+## Recommendations (clear and structured)
+- Which specialist to consult and within what timeframe (emergency / within 1–3 days / routine).
+- Proposed course of therapy (general outlines only, if known from clinical guidelines; no specific drug dosages before a physician consultation).
+- Additional measures (hospitalization, inpatient workup, diet, activity restrictions).
+- Follow-up indicators and scheduled re-evaluation timeframes.
 
-Завершайте обязательным дисклеймером из CLAUDE.md.
+End with the mandatory disclaimer from CLAUDE.md.

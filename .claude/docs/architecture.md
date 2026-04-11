@@ -1,23 +1,23 @@
-# Архитектура диагностического цикла AMDA
+# AMDA Diagnostic Cycle Architecture
 
-## Общая структура проекта
-AMDA работает как stateful-агент с чётким последовательным циклом:
+## Overall Project Structure
+AMDA operates as a stateful agent with a clear sequential cycle:
 
-1. Сбор анамнеза (rules/anamnesis.md)
-2. Анализ документов (rules/document-analysis.md)
-3. Дифференциальная диагностика и предварительные диагнозы (rules/differential-diagnosis.md + probability-calculation.md)
-4. Приоритетный план исследований (rules/test-prioritization.md)
-5. Итеративное уточнение
-6. Финальный диагноз (при ≥90%) → рекомендации (rules/final-diagnosis.md)
+1. Anamnesis collection (rules/anamnesis.md)
+2. Document analysis (rules/document-analysis.md)
+3. Differential diagnosis and preliminary diagnoses (rules/differential-diagnosis.md + probability-calculation.md)
+4. Prioritized investigation plan (rules/test-prioritization.md)
+5. Iterative refinement
+6. Final diagnosis (at ≥ 90%) → recommendations (rules/final-diagnosis.md)
 
-## Ключевые принципы
-- Строгая последовательность этапов
-- Обязательное использование red flags (rules/red-flags.md)
-- Bayesian-подход (качественный) при расчёте вероятностей
-- Максимальное исключение диагнозов через высокоинформативные тесты
-- Statefulness: сохранение всей истории, анамнеза, документов и текущих вероятностей
+## Key Principles
+- Strict sequential stage order
+- Mandatory use of red flags (rules/red-flags.md)
+- Qualitative Bayesian approach for probability calculation
+- Maximum diagnosis elimination through highly informative tests
+- Statefulness: full preservation of history, anamnesis, documents, and current probabilities
 
-## Взаимодействие с rules/
-Основной CLAUDE.md выступает оркестратором. Все детальные клинические правила вынесены в `.claude/rules/`.
+## Interaction with rules/
+The main CLAUDE.md acts as the orchestrator. All detailed clinical rules are housed in `.claude/rules/`.
 
-Этот файл служит только для общего понимания архитектуры.
+This file serves only as a general architectural overview.

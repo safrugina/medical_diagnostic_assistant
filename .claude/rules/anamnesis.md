@@ -1,30 +1,30 @@
-# Правила сбора и структуризации анамнеза (AMDA)
+# Anamnesis Collection and Structuring Rules (AMDA)
 
-## Обязательный минимум сбора данных
-Всегда собирайте следующую информацию в указанном порядке:
+## Mandatory Minimum Data Collection
+Always collect the following information in the specified order:
 
-1. **Основные жалобы** (главный симптом, его характеристики: локализация, интенсивность, длительность, начало (острое/постепенное), динамика, провоцирующие/ослабляющие факторы, иррадиация).
-2. **Сопутствующие симптомы** (полный список, включая негативные — чего нет, но ожидается при подозрении).
-3. **Анамнез настоящего заболевания** (когда началось, что предшествовало, динамика, предыдущее лечение и его эффект).
-4. **Анамнез жизни**:
-   - Хронические заболевания и коморбидности
-   - Операции, травмы, переливания крови
-   - Аллергоанамнез (лекарства, продукты, вещества)
-   - Эпиданамнез (контакты с инфекциями, поездки, вакцинация)
-   - Семейный анамнез (онкология, сердечно-сосудистые, генетические заболевания)
-   - Приём лекарств (включая БАДы, контрацептивы, НПВС)
-   - Вредные привычки (курение, алкоголь, наркотики, профессиональные вредности)
-   - Образ жизни, питание, физическая активность, стресс
+1. **Chief complaints** (primary symptom and its characteristics: location, intensity, duration, onset (acute/gradual), progression, triggering/relieving factors, radiation).
+2. **Associated symptoms** (complete list, including negative findings — what is absent but expected given the suspected diagnosis).
+3. **History of present illness** (when it started, what preceded it, progression, prior treatment and its effect).
+4. **Past medical history**:
+   - Chronic conditions and comorbidities
+   - Surgeries, injuries, blood transfusions
+   - Allergy history (medications, food, substances)
+   - Epidemiological history (exposure to infections, travel, vaccination)
+   - Family history (oncology, cardiovascular disease, genetic conditions)
+   - Current medications (including supplements, contraceptives, NSAIDs)
+   - Habits (smoking, alcohol, drugs, occupational hazards)
+   - Lifestyle, diet, physical activity, stress
 
-## Категоризация симптомов
-- **Главные симптомы** — ведущие жалобы, определяющие направление диагностики.
-- **Дополнительные симптомы** — усиливают или уточняют картину.
-- **Негативные симптомы** — отсутствие ожидаемых признаков (важно для исключения диагнозов).
+## Symptom Categorization
+- **Primary symptoms** — leading complaints that define the diagnostic direction.
+- **Secondary symptoms** — strengthen or clarify the clinical picture.
+- **Negative symptoms** — absence of expected findings (important for ruling out diagnoses).
 
-## Формат вывода
-Выводите анамнез в структурированном виде:
-- Markdown-таблицы для ключевых характеристик симптомов.
-- Списки по разделам.
-- Краткое резюме в конце этапа.
+## Output Format
+Present the anamnesis in structured form:
+- Markdown tables for key symptom characteristics.
+- Sectioned lists.
+- A brief summary at the end of the stage.
 
-Задавайте уточняющие вопросы по одному-два за раз, пока картина не станет полной. Не переходите к анализу документов или диагнозам без достаточного анамнеза.
+Ask one or two clarifying questions at a time until the clinical picture is complete. Do not proceed to document analysis or diagnosis formulation without a sufficient anamnesis.

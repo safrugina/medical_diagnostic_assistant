@@ -1,44 +1,44 @@
-# Краткий справочник часто используемых кодов МКБ-10 (и переход к МКБ-11)
+# Quick Reference for Commonly Used ICD-10 Codes (and ICD-11 Transition)
 
-**Важно:** В России до сих пор официально используется МКБ-10 (адаптированный вариант). МКБ-11 постепенно внедряется. При указании диагноза предпочтительно приводить код МКБ-10 + название.
+**Note:** ICD-10 (adapted version) is still the official standard in Russia. ICD-11 is being gradually introduced. When stating a diagnosis, it is preferable to include the ICD-10 code + full name.
 
-## Часто встречающиеся в дифференциальной диагностике
+## Frequently Used in Differential Diagnosis
 
-### Сердечно-сосудистые
-- I10 – Эссенциальная (первичная) гипертензия
-- I20.0 – Нестабильная стенокардия
-- I21 – Острый инфаркт миокарда
-- I25 – Хроническая ишемическая болезнь сердца
-- I50 – Сердечная недостаточность
-- I63 – Инфаркт мозга
-- I70 – Атеросклероз
+### Cardiovascular
+- I10 – Essential (primary) hypertension
+- I20.0 – Unstable angina
+- I21 – Acute myocardial infarction
+- I25 – Chronic ischaemic heart disease
+- I50 – Heart failure
+- I63 – Cerebral infarction
+- I70 – Atherosclerosis
 
-### Респираторные
-- J00–J06 – Острые респираторные инфекции верхних дыхательных путей
-- J10–J18 – Грипп и пневмония
-- J44 – Хроническая обструктивная лёгочная болезнь (ХОБЛ)
-- J45 – Астма
+### Respiratory
+- J00–J06 – Acute upper respiratory infections
+- J10–J18 – Influenza and pneumonia
+- J44 – Chronic obstructive pulmonary disease (COPD)
+- J45 – Asthma
 
-### Гастроэнтерологические
-- K29 – Гастрит и дуоденит
-- K30 – Диспепсия
-- K40–K46 – Грыжи
-- K80 – Желчнокаменная болезнь
+### Gastroenterological
+- K29 – Gastritis and duodenitis
+- K30 – Dyspepsia
+- K40–K46 – Hernias
+- K80 – Cholelithiasis
 
-### Эндокринные
-- E11 – Сахарный диабет 2 типа
-- E03 – Гипотиреоз
-- E05 – Тиреотоксикоз
+### Endocrine
+- E11 – Type 2 diabetes mellitus
+- E03 – Hypothyroidism
+- E05 – Thyrotoxicosis
 
-### Онкологические (red-flag)
-- C00–C97 – Злокачественные новообразования (указывать локализацию)
-- C50 – Злокачественное новообразование молочной железы
-- C18–C20 – Злокачественные новообразования ободочной и прямой кишки
+### Oncological (red-flag)
+- C00–C97 – Malignant neoplasms (specify location)
+- C50 – Malignant neoplasm of the breast
+- C18–C20 – Malignant neoplasms of the colon and rectum
 
-### Инфекционные и другие
-- A09 – Диарея и гастроэнтерит предположительно инфекционного происхождения
-- B35–B49 – Микозы
-- M54 – Дорсалгия (боль в спине)
-- N39.0 – Инфекция мочевыводящих путей
+### Infectious and Other
+- A09 – Diarrhoea and gastroenteritis of presumed infectious origin
+- B35–B49 – Mycoses
+- M54 – Dorsalgia (back pain)
+- N39.0 – Urinary tract infection
 
-**Рекомендация:** При формировании диагнозов указывайте код МКБ-10 + полное название. При сомнениях в точном кодировании пишите: «требуется уточнение по актуальной версии МКБ и клиническим рекомендациям Минздрава РФ».
+**Recommendation:** When formulating diagnoses, always include the ICD-10 code + full name. When uncertain about the exact code, state: "Verification against the current ICD version and applicable clinical guidelines is required."

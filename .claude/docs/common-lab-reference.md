@@ -1,264 +1,264 @@
-# Справочник нормальных референсных значений лабораторных показателей (AMDA)
+# Reference Values for Common Laboratory Indicators (AMDA)
 
-**Версия:** 1.1 (апрель 2026)  
-**Важное предупреждение:**  
-Референсные интервалы зависят от лаборатории, метода определения, возраста, пола, беременности и этнических особенностей.  
-Всегда сравнивайте результаты с референсными значениями, указанными в конкретном бланке анализа.  
-Данные ниже — обобщённые ориентиры на основе рекомендаций Минздрава РФ, ВОЗ, Mayo Clinic, ABIM и крупных российских лабораторий (Invitro, Helix, Gemotest) на 2025–2026 гг.
+**Version:** 1.1 (April 2026)
+**Important disclaimer:**
+Reference intervals depend on the laboratory, measurement method, age, sex, pregnancy, and ethnic background.
+Always compare results against the reference values specified on the actual lab report.
+The values below are generalized guidelines based on recommendations from WHO, Mayo Clinic, ABIM, and major reference laboratories for 2025–2026.
 
-При анализе документа всегда указывайте: «Сравнено с референсными значениями лаборатории [название]. При сомнениях требуется сверка с актуальными нормами.»
+When analyzing a document, always state: "Compared against reference values of laboratory [name]. When in doubt, verify against the laboratory's current norms."
 
-## 1. Общий анализ крови (ОАК)
+## 1. Complete Blood Count (CBC)
 
-| Показатель                  | Мужчины                  | Женщины                  | Примечание |
-|-----------------------------|--------------------------|--------------------------|----------|
-| Гемоглобин (Hb)             | 130–170 г/л             | 120–150 г/л             | - |
-| Эритроциты (RBC)            | 4,0–5,5 ×10¹²/л         | 3,8–5,1 ×10¹²/л         | - |
-| Гематокрит (Hct)            | 40–50%                  | 36–46%                  | - |
-| Лейкоциты (WBC)             | 4,0–9,0 ×10⁹/л          | 4,0–9,0 ×10⁹/л          | - |
-| Тромбоциты (PLT)            | 150–400 ×10⁹/л          | 150–400 ×10⁹/л          | - |
-| СОЭ                         | до 15 мм/ч              | до 20 мм/ч              | Возрастной рост возможен |
-| Лейкоцитарная формула:      |                          |                          |          |
-| Нейтрофилы сегментоядерные  | 45–70%                  | 45–70%                  | - |
-| Лимфоциты                   | 20–40%                  | 20–40%                  | - |
-| Моноциты                    | 3–10%                   | 3–10%                   | - |
-| Эозинофилы                  | 1–5%                    | 1–5%                    | - |
-| Базофилы                    | 0–1%                    | 0–1%                    | - |
+| Parameter                   | Male                     | Female                   | Notes |
+|-----------------------------|--------------------------|--------------------------|-------|
+| Hemoglobin (Hb)             | 130–170 g/L              | 120–150 g/L              | - |
+| Red blood cells (RBC)       | 4.0–5.5 ×10¹²/L          | 3.8–5.1 ×10¹²/L          | - |
+| Hematocrit (Hct)            | 40–50%                   | 36–46%                   | - |
+| White blood cells (WBC)     | 4.0–9.0 ×10⁹/L           | 4.0–9.0 ×10⁹/L           | - |
+| Platelets (PLT)             | 150–400 ×10⁹/L           | 150–400 ×10⁹/L           | - |
+| ESR                         | up to 15 mm/h            | up to 20 mm/h            | May increase with age |
+| WBC differential:           |                          |                          |       |
+| Segmented neutrophils       | 45–70%                   | 45–70%                   | - |
+| Lymphocytes                 | 20–40%                   | 20–40%                   | - |
+| Monocytes                   | 3–10%                    | 3–10%                    | - |
+| Eosinophils                 | 1–5%                     | 1–5%                     | - |
+| Basophils                   | 0–1%                     | 0–1%                     | - |
 
-## 2. Биохимический анализ крови
+## 2. Biochemical Blood Analysis
 
-### Основные показатели
-- **Глюкоза** (натощак): 3,9–5,5 ммоль/л (преддиабет 5,6–6,9)
-- **Гликированный гемоглобин (HbA1c)**: 4,0–5,6% (норма), 5,7–6,4% — преддиабет
-- **Общий белок**: 65–85 г/л
-- **Альбумин**: 35–52 г/л
-- **Мочевина**: 2,5–8,3 ммоль/л
-- **Креатинин**: мужчины 62–115 мкмоль/л, женщины 53–97 мкмоль/л
-- **Скорость клубочковой фильтрации (СКФ, CKD-EPI)**: ≥90 мл/мин/1,73 м² (норма)
-- **Общий билирубин**: 3,4–20,5 мкмоль/л
-- **Прямой (конъюгированный) билирубин**: <5,1 мкмоль/л
-- **АЛТ**: <45 Ед/л (мужчины), <34 Ед/л (женщины)
-- **АСТ**: <40 Ед/л
-- **Щелочная фосфатаза (ЩФ)**: 40–150 Ед/л (выше у детей и беременных)
-- **Гамма-глутамилтрансфераза (ГГТ)**: мужчины <55 Ед/л, женщины <38 Ед/л
+### Core Parameters
+- **Glucose** (fasting): 3.9–5.5 mmol/L (pre-diabetes 5.6–6.9)
+- **Glycated hemoglobin (HbA1c)**: 4.0–5.6% (normal), 5.7–6.4% — pre-diabetes
+- **Total protein**: 65–85 g/L
+- **Albumin**: 35–52 g/L
+- **Urea**: 2.5–8.3 mmol/L
+- **Creatinine**: male 62–115 µmol/L, female 53–97 µmol/L
+- **Glomerular filtration rate (GFR, CKD-EPI)**: ≥ 90 mL/min/1.73 m² (normal)
+- **Total bilirubin**: 3.4–20.5 µmol/L
+- **Direct (conjugated) bilirubin**: < 5.1 µmol/L
+- **ALT**: < 45 U/L (male), < 34 U/L (female)
+- **AST**: < 40 U/L
+- **Alkaline phosphatase (ALP)**: 40–150 U/L (higher in children and pregnant women)
+- **Gamma-glutamyltransferase (GGT)**: male < 55 U/L, female < 38 U/L
 
-### Липидный профиль
-- Холестерин общий: <5,2 ммоль/л (желательно <5,0)
-- ЛПНП: <3,0 ммоль/л (оптимально <2,6)
-- ЛПВП: мужчины >1,0 ммоль/л, женщины >1,2 ммоль/л
-- Триглицериды: <1,7 ммоль/л
-- Коэффициент атерогенности: <3,0
+### Lipid Panel
+- Total cholesterol: < 5.2 mmol/L (preferably < 5.0)
+- LDL cholesterol: < 3.0 mmol/L (optimal < 2.6)
+- HDL cholesterol: male > 1.0 mmol/L, female > 1.2 mmol/L
+- Triglycerides: < 1.7 mmol/L
+- Atherogenic index: < 3.0
 
-### Маркеры воспаления и острой фазы
-- **С-реактивный белок (СРБ)**: <5 мг/л (высокочувствительный hs-CRP <3 мг/л)
-- **Прокальцитонин**: <0,5 нг/мл (при сепсисе часто >2,0)
-- **Ферритин**: мужчины 30–400 мкг/л, женщины 15–150 мкг/л
+### Inflammatory and Acute-Phase Markers
+- **C-reactive protein (CRP)**: < 5 mg/L (high-sensitivity hs-CRP < 3 mg/L)
+- **Procalcitonin**: < 0.5 ng/mL (often > 2.0 in sepsis)
+- **Ferritin**: male 30–400 µg/L, female 15–150 µg/L
 
-### Электролиты
-- Натрий (Na⁺): 135–145 ммоль/л
-- Калий (K⁺): 3,5–5,1 ммоль/л
-- Хлориды (Cl⁻): 98–107 ммоль/л
-- Кальций общий: 2,15–2,55 ммоль/л
-- Кальций ионизированный: 1,15–1,29 ммоль/л
-- Магний: 0,66–1,07 ммоль/л
+### Electrolytes
+- Sodium (Na⁺): 135–145 mmol/L
+- Potassium (K⁺): 3.5–5.1 mmol/L
+- Chloride (Cl⁻): 98–107 mmol/L
+- Total calcium: 2.15–2.55 mmol/L
+- Ionized calcium: 1.15–1.29 mmol/L
+- Magnesium: 0.66–1.07 mmol/L
 
-## 3. Общий анализ мочи (ОАМ)
+## 3. Urinalysis (UA)
 
-- Цвет: соломенно-жёлтый
-- Прозрачность: прозрачная
-- Относительная плотность: 1,005–1,025
-- pH: 5,0–7,0
-- Белок: отсутствует или следы (<0,033 г/л)
-- Глюкоза: отрицательно
-- Кетоновые тела: отрицательно
-- Билирубин: отрицательно
-- Уробилиноген: 0–17 мкмоль/л (или следы)
-- Лейкоциты: мужчины 0–3 в п/зр., женщины 0–5 в п/зр.
-- Эритроциты: 0–2 в п/зр.
-- Цилиндры: отсутствуют (допустимы единичные гиалиновые)
+- Color: straw-yellow
+- Clarity: clear
+- Specific gravity: 1.005–1.025
+- pH: 5.0–7.0
+- Protein: absent or trace (< 0.033 g/L)
+- Glucose: negative
+- Ketones: negative
+- Bilirubin: negative
+- Urobilinogen: 0–17 µmol/L (or trace)
+- White blood cells: male 0–3 per high-power field, female 0–5 per high-power field
+- Red blood cells: 0–2 per high-power field
+- Casts: absent (occasional hyaline casts acceptable)
 
-## 4. Гормональные исследования
+## 4. Hormonal Studies
 
-- **ТТГ**: 0,4–4,0 мЕд/л
-- **Свободный Т4**: 9–19 пмоль/л
-- **Свободный Т3**: 2,6–5,7 пмоль/л
-- **Паратгормон (ПТГ)**: 15–65 пг/мл
-- **Кортизол** (утренний): 138–690 нмоль/л
-- **Витамин D (25-OH)**: оптимально 40–60 нг/мл (>30 — норма, <20 — дефицит)
-- **Ферритин** (см. выше)
+- **TSH**: 0.4–4.0 mIU/L
+- **Free T4**: 9–19 pmol/L
+- **Free T3**: 2.6–5.7 pmol/L
+- **Parathyroid hormone (PTH)**: 15–65 pg/mL
+- **Cortisol** (morning): 138–690 nmol/L
+- **Vitamin D (25-OH)**: optimal 40–60 ng/mL (> 30 — normal, < 20 — deficiency)
+- **Ferritin** (see above)
 
-## 5. Коагулограмма и маркеры тромбоза
+## 5. Coagulation Panel and Thrombosis Markers
 
-- Протромбиновое время (ПВ): 11–15 сек
-- МНО (INR): 0,8–1,2 (у здоровых)
-- АЧТВ: 25–35 сек
-- Фибриноген: 2,0–4,0 г/л
-- **D-димер**: <0,5 мкг/мл FEU (возраст-зависимый рост возможен)
+- Prothrombin time (PT): 11–15 sec
+- INR: 0.8–1.2 (in healthy individuals)
+- APTT: 25–35 sec
+- Fibrinogen: 2.0–4.0 g/L
+- **D-dimer**: < 0.5 µg/mL FEU (age-dependent increase possible)
 
-## 6. **Иммунология и серология** (новый раздел)
+## 6. Immunology and Serology
 
-### Иммунограмма (основные показатели клеточного и гуморального иммунитета)
+### Immunogram (Core Cellular and Humoral Immunity Indicators)
 
-| Показатель                          | Референсные значения (взрослые)          | Клиническое значение при отклонении |
-|-------------------------------------|------------------------------------------|-------------------------------------|
-| Лимфоциты (абсолютное количество)   | 1,0–4,0 ×10⁹/л                          | ↓ — иммунодефицит, ↑ — реактивный или лимфопролиферативный процесс |
-| CD3+ (Т-лимфоциты общие)            | 0,8–2,4 ×10⁹/л или 55–80%               | - |
-| CD4+ (Т-хелперы)                    | 0,4–1,6 ×10⁹/л или 30–60%               | ↓ при ВИЧ, иммуносупрессии |
-| CD8+ (Т-цитотоксические)            | 0,2–1,1 ×10⁹/л или 15–40%               | - |
-| Соотношение CD4/CD8                 | 1,0–3,5                                 | ↓ <1,0 — подозрение на ВИЧ или тяжёлый иммунодефицит |
-| CD19+ (В-лимфоциты)                 | 0,1–0,5 ×10⁹/л или 5–20%                | - |
-| NK-клетки (CD16+CD56+)              | 0,05–0,5 ×10⁹/л или 5–25%               | - |
-| Иммуноглобулин A (IgA)              | 0,7–4,0 г/л                            | ↓ — селективный дефицит IgA |
-| Иммуноглобулин G (IgG)              | 7,0–16,0 г/л                           | ↓ — общий вариабельный иммунодефицит |
-| Иммуноглобулин M (IgM)              | 0,4–2,3 г/л                            | - |
-| Иммуноглобулин E (IgE) общий        | <100 МЕ/мл (до 150)                     | ↑ — атопия, паразитозы, аллергия |
+| Parameter                          | Reference Values (adults)                | Clinical Significance of Deviation |
+|------------------------------------|------------------------------------------|-------------------------------------|
+| Lymphocytes (absolute count)       | 1.0–4.0 ×10⁹/L                          | ↓ — immunodeficiency; ↑ — reactive or lymphoproliferative process |
+| CD3+ (total T-lymphocytes)         | 0.8–2.4 ×10⁹/L or 55–80%               | - |
+| CD4+ (T-helper cells)              | 0.4–1.6 ×10⁹/L or 30–60%               | ↓ in HIV, immunosuppression |
+| CD8+ (cytotoxic T cells)           | 0.2–1.1 ×10⁹/L or 15–40%               | - |
+| CD4/CD8 ratio                      | 1.0–3.5                                 | ↓ < 1.0 — suspected HIV or severe immunodeficiency |
+| CD19+ (B-lymphocytes)              | 0.1–0.5 ×10⁹/L or 5–20%                | - |
+| NK cells (CD16+CD56+)              | 0.05–0.5 ×10⁹/L or 5–25%               | - |
+| Immunoglobulin A (IgA)             | 0.7–4.0 g/L                            | ↓ — selective IgA deficiency |
+| Immunoglobulin G (IgG)             | 7.0–16.0 g/L                           | ↓ — common variable immunodeficiency |
+| Immunoglobulin M (IgM)             | 0.4–2.3 g/L                            | - |
+| Total immunoglobulin E (IgE)       | < 100 IU/mL (up to 150)                | ↑ — atopy, parasitic infection, allergy |
 
-### Аутоиммунные маркеры
+### Autoimmune Markers
 
-- **Антинуклеарные антитела (ANA, HEp-2)**: отрицательно (титр <1:80)
-- **Антитела к двуспиральной ДНК (anti-dsDNA)**: отрицательно (<10 МЕ/мл)
-- **Ревматоидный фактор (РФ)**: <14 МЕ/мл (или <20 по некоторым лабораториям)
-- **Анти-ЦЦП (анти-циклический цитруллинированный пептид)**: <20 Ед/мл
-- **Антистрептолизин-O (АСЛО)**: <200 МЕ/мл (взрослые)
-- **Антинейтрофильные цитоплазматические антитела (ANCA)**: отрицательно
-- **Антитела к тиреопероксидазе (анти-ТПО)**: <34 МЕ/мл
-- **Антитела к тиреоглобулину (анти-ТГ)**: <115 МЕ/мл
+- **Antinuclear antibodies (ANA, HEp-2)**: negative (titer < 1:80)
+- **Anti-double-stranded DNA (anti-dsDNA)**: negative (< 10 IU/mL)
+- **Rheumatoid factor (RF)**: < 14 IU/mL (or < 20 by some laboratories)
+- **Anti-CCP (anti-cyclic citrullinated peptide)**: < 20 U/mL
+- **Anti-streptolysin O (ASO)**: < 200 IU/mL (adults)
+- **Anti-neutrophil cytoplasmic antibodies (ANCA)**: negative
+- **Anti-thyroid peroxidase antibodies (anti-TPO)**: < 34 IU/mL
+- **Anti-thyroglobulin antibodies (anti-Tg)**: < 115 IU/mL
 
-### Маркеры инфекций (серология)
+### Infection Markers (Serology)
 
-- **ВИЧ**: Anti-HIV 1/2 + p24 — отрицательно
-- **HBsAg** (гепатит B поверхностный антиген): отрицательно
-- **Anti-HCV** (гепатит C): отрицательно
-- **Anti-HBc total**: отрицательно (для исключения контакта)
-- **IgM к вирусу Эпштейна-Барр (VCA IgM)**: отрицательно
-- **IgG к цитомегаловирусу (CMV IgG)**: может быть положительным (перенесённая инфекция)
-- **IgM к Toxoplasma gondii**: отрицательно
-- **IgG к Toxoplasma gondii**: положительный у 20–60% взрослого населения (перенесённая инфекция)
-- **Сифилис (RPR / VDRL + TPHA / FTA-ABS)**: отрицательно
+- **HIV**: Anti-HIV 1/2 + p24 — negative
+- **HBsAg** (hepatitis B surface antigen): negative
+- **Anti-HCV** (hepatitis C): negative
+- **Anti-HBc total**: negative (to rule out prior exposure)
+- **EBV IgM (VCA IgM)**: negative
+- **CMV IgG**: may be positive (past infection)
+- **Toxoplasma gondii IgM**: negative
+- **Toxoplasma gondii IgG**: positive in 20–60% of adults (past infection)
+- **Syphilis (RPR/VDRL + TPHA/FTA-ABS)**: negative
 
-### Маркеры аллергии и эозинофилии
-- **Общий IgE**: <100 МЕ/мл (значимое повышение >200–300)
-- **Эозинофилы** (абсолютное): <0,45 ×10⁹/л (или <5%)
+### Allergy and Eosinophilia Markers
+- **Total IgE**: < 100 IU/mL (significant elevation > 200–300)
+- **Eosinophils** (absolute): < 0.45 ×10⁹/L (or < 5%)
 
-## 7. **Микробиология и посевы** (новый раздел)
+## 7. Microbiology and Cultures
 
-### 7.1. Посевы и микробиологическое исследование
+### 7.1. Culture and Microbiological Studies
 
-| Материал                          | Нормальная микрофлора / Результат                  | Клинически значимые находки |
-|-----------------------------------|----------------------------------------------------|-----------------------------|
-| **Мокрота**                       | Скудный рост нормальной микрофлоры верхних дыхательных путей | Обильный рост одного патогена (S. pneumoniae, H. influenzae, S. aureus, Klebsiella и др.) |
-| **Моча** (средняя порция)         | Рост <10³ КОЕ/мл или отсутствие роста             | ≥10⁵ КОЕ/мл одного возбудителя (E. coli, Klebsiella, Proteus, Enterococcus и др.) — значимая бактериурия |
-| **Кал** (на патогенную флору)     | Рост нормальной кишечной флоры                     | Выделение Salmonella, Shigella, Campylobacter, Yersinia, патогенных E. coli (EHEC, EPEC и др.), Clostridium difficile |
-| **Кровь** (гемокультура)          | Нет роста                                          | Рост любого микроорганизма (кроме контаминантов: коагулазонегативные стафилококки, Corynebacterium и др.) |
-| **Рана / гной / отделяемое**      | Смешанная флора или скудный рост                  | Обильный рост одного доминирующего патогена (S. aureus, Streptococcus, Pseudomonas, Enterobacteriaceae) |
-| **Соскоб / мазок из зева**        | Нормальная микрофлора зева                         | Обильный рост β-гемолитического стрептококка группы A (Streptococcus pyogenes), S. aureus |
-| **Мазок из уретры / цервикса**    | Нормальная микрофлора                              | Neisseria gonorrhoeae, Chlamydia trachomatis, Trichomonas vaginalis, Mycoplasma genitalium |
+| Specimen                          | Normal Flora / Result                              | Clinically Significant Findings |
+|-----------------------------------|----------------------------------------------------|---------------------------------|
+| **Sputum**                        | Sparse growth of normal upper respiratory flora    | Heavy growth of a single pathogen (S. pneumoniae, H. influenzae, S. aureus, Klebsiella, etc.) |
+| **Urine** (midstream)             | Growth < 10³ CFU/mL or no growth                  | ≥ 10⁵ CFU/mL of a single organism (E. coli, Klebsiella, Proteus, Enterococcus, etc.) — significant bacteriuria |
+| **Stool** (pathogen culture)      | Growth of normal intestinal flora                  | Isolation of Salmonella, Shigella, Campylobacter, Yersinia, pathogenic E. coli (EHEC, EPEC, etc.), Clostridioides difficile |
+| **Blood** (hemoculture)           | No growth                                          | Growth of any organism (except contaminants: coagulase-negative staphylococci, Corynebacterium, etc.) |
+| **Wound / pus / discharge**       | Mixed flora or sparse growth                       | Heavy growth of a single dominant pathogen (S. aureus, Streptococcus, Pseudomonas, Enterobacteriaceae) |
+| **Throat swab**                   | Normal oropharyngeal flora                         | Heavy growth of group A β-haemolytic streptococcus (Streptococcus pyogenes), S. aureus |
+| **Urethral / cervical swab**      | Normal flora                                       | Neisseria gonorrhoeae, Chlamydia trachomatis, Trichomonas vaginalis, Mycoplasma genitalium |
 
-### 7.2. Основные антигены и ПЦР-диагностика (качественный результат)
+### 7.2. Key Antigens and PCR Diagnostics (qualitative result)
 
-- **Streptococcus pneumoniae** (антиген в моче) — отрицательно
-- **Legionella pneumophila** (антиген в моче) — отрицательно
-- **Clostridium difficile** (токсин A/B или ПЦР) — отрицательно
-- **Helicobacter pylori** (антиген в кале или дыхательный тест) — отрицательно
-- **SARS-CoV-2, Influenza A/B, RSV** (ПЦР мазок из носоглотки) — отрицательно
-- **Mycobacterium tuberculosis** (ПЦР, GeneXpert) — отрицательно
+- **Streptococcus pneumoniae** (urine antigen) — negative
+- **Legionella pneumophila** (urine antigen) — negative
+- **Clostridioides difficile** (toxin A/B or PCR) — negative
+- **Helicobacter pylori** (stool antigen or breath test) — negative
+- **SARS-CoV-2, Influenza A/B, RSV** (PCR nasopharyngeal swab) — negative
+- **Mycobacterium tuberculosis** (PCR, GeneXpert) — negative
 
-### 7.3. Важные количественные и полуколичественные показатели
+### 7.3. Important Quantitative and Semi-Quantitative Parameters
 
-- **Лейкоциты в моче** (по Нечипоренко): <2000 в 1 мл
-- **Бактерии в моче** (бактериоскопия): отсутствуют или единичные
-- **Копрограмма** — лейкоциты в кале: отсутствуют или единичные (при воспалении — >10–20 в п/зр.)
-- **Скрытая кровь в кале** (иммунохроматографический тест): отрицательно
+- **WBC in urine** (Nechiporenko): < 2,000 per 1 mL
+- **Bacteria in urine** (microscopy): absent or rare
+- **Stool WBC** (coproscopy): absent or rare (> 10–20 per high-power field indicates inflammation)
+- **Fecal occult blood** (immunochromatographic test): negative
 
-### 7.4. Чувствительность к антибиотикам (антибиотикограмма)
+### 7.4. Antibiotic Susceptibility Testing (Antibiogram)
 
-**Формат результата антибиотикограммы:**
-- **S** — чувствителен (рекомендуется для терапии)
-- **I** — промежуточная чувствительность (эффект возможен при высоких дозах или хорошем проникновении в очаг)
-- **R** — устойчив (не рекомендуется)
+**Antibiogram result format:**
+- **S** — susceptible (recommended for therapy)
+- **I** — intermediate susceptibility (effect possible at high doses or with good tissue penetration)
+- **R** — resistant (not recommended)
 
-#### Основные правила интерпретации для AMDA
-- Всегда отдавайте предпочтение препаратам категории **S**.
-- Учитывайте локализацию инфекции, проникновение препарата в ткани, возраст пациента, функцию почек/печени и аллергоанамнез.
-- Стремитесь к **де-эскалации** терапии после получения результатов (сужение спектра).
-- При выделении полирезистентных штаммов (MRSA, ESBL, карбапенемазы и др.) — сразу отмечайте как red flag и рекомендуйте консультацию инфекциониста.
+#### Core Interpretation Rules for AMDA
+- Always prefer agents in category **S**.
+- Consider infection site, drug tissue penetration, patient age, renal/hepatic function, and allergy history.
+- Aim for **de-escalation** of therapy after results are available (narrowing the spectrum).
+- When multi-drug-resistant strains are isolated (MRSA, ESBL, carbapenemases, etc.) — flag immediately as a red flag and recommend infectious disease specialist consultation.
 
-#### Улучшенная таблица антибиотиков
+#### Antibiotic Class Summary Table
 
-| Класс антибиотиков                  | Основные препараты                          | Основные показания (частые)                          | Важные ограничения / примечания                          | Красные флаги резистентности |
-|-------------------------------------|---------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|------------------------------|
-| **Пенициллины**                     | Амоксициллин, Ампициллин, Амоксициллин/клавуланат (Аугментин) | Инфекции ВДП, пневмония, инфекции МВП, кожные инфекции | Аллергия на пенициллины (перекрест с цефалоспоринами)   | — |
-| **Цефалоспорины I–II поколения**   | Цефазолин, Цефуроксим                       | Кожные инфекции, профилактика хирургических вмешательств | Слабая активность против грамотрицательных               | — |
-| **Цефалоспорины III поколения**     | Цефтриаксон, Цефотаксим                     | Внебольничная пневмония, пиелонефрит, менингит       | Устойчивость ESBL снижает эффективность                  | ESBL-продуценты |
-| **Цефалоспорины IV поколения**      | Цефепим                                     | Госпитальные инфекции, нейтропеническая лихорадка     | Хорошая активность против Pseudomonas                    | — |
-| **Карбапенемы**                     | Меропенем, Эртапенем, Имипенем              | Тяжёлые полирезистентные инфекции, абдоминальные      | Резервные препараты. Назначаются только по строгим показаниям | Карбапенемазы (KPC, NDM, OXA-48) |
-| **Фторхинолоны**                    | Ципрофлоксацин, Левофлоксацин, Моксифлоксацин | Инфекции МВП, простатит, внутрибрюшные инфекции, пневмония | Тендинопатии, удлинение QT, избегать у детей и беременных | Высокий уровень резистентности E. coli |
-| **Макролиды**                       | Азитромицин, Кларитромицин, Эритромицин     | Атипичная пневмония, инфекции ВДП, хламидиоз          | Удлинение QT, взаимодействие с другими препаратами       | — |
-| **Аминогликозиды**                  | Гентамицин, Амикацин, Тобрамицин            | Тяжёлые грамотрицательные инфекции, сепсис            | Нефро- и ототоксичность. Контроль уровня в крови         | — |
-| **Гликопептиды**                    | Ванкомицин, Тейкопланин                     | MRSA, тяжёлые грамположительные инфекции              | Нефротоксичность, мониторинг уровня                      | VRE (ванкомицин-резистентные энтерококки) |
-| **Оксазолидиноны**                  | Линезолид                                   | MRSA, VRE, инфекции кожи и мягких тканей              | Миелосупрессия при длительном приёме (>2 недель)         | Линезолид-резистентные штаммы |
-| **Тетрациклины**                    | Доксициклин, Миноциклин                     | Атипичные возбудители, хламидиоз, боррелиоз, акне     | Фотосенсибилизация, противопоказан детям <8 лет          | — |
-| **Нитрофураны**                     | Нитрофурантоин                              | Неосложнённые инфекции нижних мочевых путей           | Неэффективен при пиелонефрите                            | — |
-| **Сульфаниламиды**                  | Ко-тримоксазол (Бисептол)                   | Инфекции МВП, пневмоцистная пневмония, токсоплазмоз   | Аллергия, риск Стивенс-Джонсона                          | Высокая резистентность в некоторых регионах |
+| Antibiotic Class                   | Key Agents                                          | Common Indications                                          | Important Limitations / Notes                                | Resistance Red Flags |
+|------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------|----------------------|
+| **Penicillins**                    | Amoxicillin, Ampicillin, Amoxicillin/clavulanate   | Upper respiratory infections, pneumonia, UTIs, skin infections | Penicillin allergy (cross-reaction with cephalosporins)      | — |
+| **1st–2nd gen. cephalosporins**    | Cefazolin, Cefuroxime                               | Skin infections, surgical prophylaxis                        | Weak activity against Gram-negatives                         | — |
+| **3rd gen. cephalosporins**        | Ceftriaxone, Cefotaxime                             | Community-acquired pneumonia, pyelonephritis, meningitis    | Efficacy reduced by ESBL producers                           | ESBL producers |
+| **4th gen. cephalosporins**        | Cefepime                                            | Hospital-acquired infections, febrile neutropenia            | Good activity against Pseudomonas                            | — |
+| **Carbapenems**                    | Meropenem, Ertapenem, Imipenem                      | Severe multi-drug-resistant infections, abdominal infections | Reserve agents. Only for strict indications                  | Carbapenemases (KPC, NDM, OXA-48) |
+| **Fluoroquinolones**               | Ciprofloxacin, Levofloxacin, Moxifloxacin          | UTIs, prostatitis, intra-abdominal infections, pneumonia    | Tendinopathy, QT prolongation, avoid in children/pregnancy   | High E. coli resistance rates |
+| **Macrolides**                     | Azithromycin, Clarithromycin, Erythromycin          | Atypical pneumonia, upper respiratory infections, chlamydiosis | QT prolongation, drug interactions                          | — |
+| **Aminoglycosides**                | Gentamicin, Amikacin, Tobramycin                    | Severe Gram-negative infections, sepsis                      | Nephro- and ototoxicity. Monitor serum levels                | — |
+| **Glycopeptides**                  | Vancomycin, Teicoplanin                             | MRSA, severe Gram-positive infections                        | Nephrotoxicity, serum level monitoring                       | VRE (vancomycin-resistant enterococci) |
+| **Oxazolidinones**                 | Linezolid                                           | MRSA, VRE, skin and soft tissue infections                   | Myelosuppression with prolonged use (> 2 weeks)              | Linezolid-resistant strains |
+| **Tetracyclines**                  | Doxycycline, Minocycline                            | Atypical pathogens, chlamydiosis, Lyme disease, acne        | Photosensitivity, contraindicated in children < 8 years      | — |
+| **Nitrofurans**                    | Nitrofurantoin                                      | Uncomplicated lower urinary tract infections                 | Ineffective for pyelonephritis                               | — |
+| **Sulfonamides**                   | Trimethoprim/sulfamethoxazole (TMP-SMX)             | UTIs, Pneumocystis pneumonia, toxoplasmosis                  | Allergy risk, Stevens-Johnson syndrome risk                  | High resistance in some regions |
 
-#### Критически важные резистентности (обязательно выделять как Red Flag)
+#### Critically Important Resistances (must always flag as Red Flag)
 
-- **MRSA** — метициллин-резистентный *Staphylococcus aureus*
-- **ESBL** — продуценты расширенного спектра β-лактамаз (устойчивы к большинству цефалоспоринов)
-- **Карбапенемазы** (KPC, NDM, OXA-48 и др.) — крайне опасные полирезистентные грамотрицательные бактерии
-- **VRE** — ванкомицин-резистентные энтерококки
-- **Мультирезистентная Pseudomonas aeruginosa**
-- **Мультирезистентный Acinetobacter baumannii**
+- **MRSA** — methicillin-resistant *Staphylococcus aureus*
+- **ESBL** — extended-spectrum β-lactamase producers (resistant to most cephalosporins)
+- **Carbapenemases** (KPC, NDM, OXA-48, etc.) — extremely dangerous multi-drug-resistant Gram-negative bacteria
+- **VRE** — vancomycin-resistant enterococci
+- **Multi-drug-resistant Pseudomonas aeruginosa**
+- **Multi-drug-resistant Acinetobacter baumannii**
 
-**Важное правило AMDA:**  
-Ты **не имеешь права** назначать конкретные схемы антибиотикотерапии, дозировки или длительность курса.  
-Ты можешь только:
-- Проанализировать антибиотикограмму
-- Указать, к каким классам препаратов возбудитель чувствителен/устойчив
-- Рекомендовать обсудить выбор терапии с лечащим врачом или инфекционистом
+**Important AMDA rule:**
+You are **not permitted** to prescribe specific antibiotic regimens, dosages, or treatment durations.
+You may only:
+- Analyze the antibiogram
+- Indicate which antibiotic classes the pathogen is susceptible or resistant to
+- Recommend that the choice of therapy be discussed with the treating physician or an infectious disease specialist
 
-При обнаружении любой критической резистентности сразу отмечай это и рекомендуй срочную консультацию специалиста.
+When any critical resistance is identified, flag it immediately and recommend urgent specialist consultation.
 
-## 8. Онкомаркеры (скрининговые, ориентировочные)
+## 8. Tumour Markers (Screening, Indicative)
 
-- ПСА (общий): <4 нг/мл (возраст-зависимо)
-- СА 125: <35 Ед/мл (женщины)
-- СА 19-9: <37 Ед/мл
-- РЭА (CEA): <5 нг/мл (некурящие), <10 нг/мл (курящие)
-- Альфа-фетопротеин (АФП): <10 МЕ/мл
+- PSA (total): < 4 ng/mL (age-dependent)
+- CA-125: < 35 U/mL (females)
+- CA 19-9: < 37 U/mL
+- CEA: < 5 ng/mL (non-smokers), < 10 ng/mL (smokers)
+- Alpha-fetoprotein (AFP): < 10 IU/mL
 
-**Важно:** Онкомаркеры имеют низкую специфичность. Используйте только в комплексе с клиникой и инструментальными методами. Повышение не равно диагнозу рака.
+**Important:** Tumour markers have low specificity. Use only in conjunction with clinical findings and imaging. Elevation does not equal a cancer diagnosis.
 
-## 9. Дополнительные часто используемые показатели
+## 9. Additional Commonly Used Parameters
 
-- **Тропонин I / T** (высокочувствительный): <14–34 нг/л (зависит от теста) — маркер повреждения миокарда
-- **BNP / NT-proBNP**: <125 пг/мл (NT-proBNP <300 пг/мл) — при исключении сердечной недостаточности
-- **Амилаза**: <100–120 Ед/л
-- **Липаза**: <60 Ед/л
-- **Креатинкиназа (КФК)**: мужчины <190 Ед/л, женщины <167 Ед/л
-- **Мочевая кислота**: мужчины 208–428 мкмоль/л, женщины 155–357 мкмоль/л
+- **Troponin I / T** (high-sensitivity): < 14–34 ng/L (assay-dependent) — marker of myocardial injury
+- **BNP / NT-proBNP**: < 125 pg/mL (NT-proBNP < 300 pg/mL) — for ruling out heart failure
+- **Amylase**: < 100–120 U/L
+- **Lipase**: < 60 U/L
+- **Creatine kinase (CK)**: male < 190 U/L, female < 167 U/L
+- **Uric acid**: male 208–428 µmol/L, female 155–357 µmol/L
 
-## Рекомендации для AMDA
+## AMDA Guidelines
 
-**При интерпретации микробиологических исследований:**
-- Различайте **колонизацию** и **инфекцию**. Обильный рост одного доминирующего патогена + клинические проявления = инфекция.
-- Для мочи: значимая бактериурия ≥10⁵ КОЕ/мл у симптомных пациентов. У женщин с симптомами иногда достаточно ≥10³ КОЕ/мл.
-- Гемокультура: любой рост (кроме очевидных контаминантов) требует внимания.
-- При выделении условно-патогенной флоры (Candida, Enterococcus, Pseudomonas) учитывайте иммунитет пациента и локализацию.
-- Всегда связывайте результат посева с текущим анамнезом, ОАК (лейкоцитоз, сдвиг формулы), СРБ/прокальцитонином и клинической картиной.
-- При отрицательном результате посева на фоне антибиотикотерапии указывайте: «Результат может быть ложноотрицательным из-за предшествующей антибактериальной терапии».
+**When interpreting microbiological results:**
+- Distinguish between **colonization** and **infection**. Heavy growth of a single dominant pathogen + clinical symptoms = infection.
+- For urine: significant bacteriuria ≥ 10⁵ CFU/mL in symptomatic patients. In symptomatic women, ≥ 10³ CFU/mL may sometimes be sufficient.
+- Blood culture: any growth (except obvious contaminants) requires attention.
+- When conditionally pathogenic organisms are isolated (Candida, Enterococcus, Pseudomonas), consider the patient's immune status and infection site.
+- Always correlate culture results with current anamnesis, CBC (leukocytosis, left shift), CRP/procalcitonin, and clinical presentation.
+- If a culture is negative in the context of prior antibiotic therapy, note: "Result may be false-negative due to preceding antibiotic treatment."
 
-**Красные флаги в микробиологии:**
-- Положительная гемокультура
-- Выделение Salmonella, Shigella, Clostridium difficile
-- Обнаружение Neisseria gonorrhoeae или Chlamydia trachomatis
-- Рост MRSA или полирезистентных штаммов
+**Microbiology red flags:**
+- Positive blood culture
+- Isolation of Salmonella, Shigella, or Clostridioides difficile
+- Detection of Neisseria gonorrhoeae or Chlamydia trachomatis
+- Growth of MRSA or multi-drug-resistant strains
 
-- При разборе документа всегда приводите таблицу «Показатель — Результат — Референс — Отклонение — Клиническое значение».
-- Учитывайте динамику (если есть предыдущие анализы).
-- При пограничных значениях и коморбидностях указывайте возможное влияние сопутствующих факторов.
-- При разборе иммунологических показателей всегда учитывайте клинический контекст (жалобы, анамнез, ОАК, биохимия)
-- Положительные аутоантитела без клинической картины требуют осторожной интерпретации (возможны ложноположительные результаты)
-- При любом сомнении добавляйте фразу: «требуется проверка по актуальным клиническим рекомендациям 2025–2026 гг. и нормам конкретной лаборатории».
+- When reviewing any document, always present a table: "Parameter — Result — Reference — Deviation — Clinical Significance."
+- Account for trends over time (if prior results are available).
+- For borderline values with comorbidities, note possible confounding factors.
+- When interpreting immunological markers, always consider the clinical context (symptoms, anamnesis, CBC, biochemistry).
+- Positive autoantibodies without corresponding clinical features require cautious interpretation (false-positive results are possible).
+- When in any doubt, add: "Verification against current clinical guidelines for 2025–2026 and the specific laboratory's norms is required."
 
-Этот справочник помогает быстро ориентироваться в анализах. Для редких или узкоспециализированных показателей обращайтесь к актуальным клиническим рекомендациям Минздрава РФ или международным гайдлайнам.
+This reference guide assists with rapid orientation in lab results. For rare or highly specialized parameters, refer to current clinical guidelines or international evidence-based standards.

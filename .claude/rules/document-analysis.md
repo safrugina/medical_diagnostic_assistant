@@ -7,7 +7,7 @@ When new files are received in the `./documents/` folder (PDF, JPG, PNG, DOCX, e
 2. **Automatically activate multimodal analysis and OCR** in Claude:
    - For PDFs: use both text extraction and visual analysis of each page.
    - For images (JPG, PNG, scanned forms): perform **full text recognition (OCR)**.
-   - If text extraction is poor or the document appears to be a scan/photo — explicitly state: "Performing OCR recognition of text and tables."
+     - For FHIR Bundle (JSON) and SEMD, perform structured parsing of Ru Core resources.
 
 3. Identify **all key indicators** with reference values (use docs/common-lab-reference.md).
 4. Mark deviations (↑ / ↓ / within normal range) and their clinical significance.
@@ -16,6 +16,12 @@ When new files are received in the `./documents/` folder (PDF, JPG, PNG, DOCX, e
 ## Special Text Recognition (OCR) Rules
 
 **Always perform the following steps during analysis:**
+
+### FHIR and SEMD
+- When receiving FHIR Bundle or individual resources (Patient, Observation, DiagnosticReport, etc.) — perform mapping according to **Ru Core**.
+- Specify: "Data received via FHIR Ru Core / export from [MIS name]".
+- Main resources to parse: Patient, Observation, DiagnosticReport, Condition, Bundle.
+- When discrepancies with Ru Core ValueSet are found — explicitly note this.
 
 - **If the document is an image or a scanned PDF** (poor text extraction):
   - Perform detailed OCR recognition of all visible text.

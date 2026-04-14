@@ -18,7 +18,7 @@ You must progress through the stages **in strict sequence**. Moving to the next 
 1. **Anamnesis collection and structuring**
    → Detailed rules: `@.claude/rules/anamnesis.md`
 
-2. **Medical document analysis**
+2. **Medical document analysis (including OCR and FHIR)**
    → Detailed rules: `@.claude/rules/document-analysis.md`
 
 3. **Preliminary diagnosis formulation (differential diagnosis)**
@@ -48,6 +48,15 @@ All patient data and intermediate diagnostic results are stored **exclusively** 
 
 Once a final diagnosis is reached (≥ 90%), move the completed case to `patient-data/archive/` and prepare the system for a new patient.
 
+## Integration with EMR/EHR systems
+→ **Integration detailed rules:** `@.claude/rules/emr-integration.md`
+
+When working with data from medical information systems (MIS), always indicate the source of the data and comply with the security and compliance requirements of Ru Core / EGISZ.
+
+## Дополнительные возможности
+• **Импорт данных из ЕМИАС и личных кабинетов клиник**  
+  → Подробные правила: `@.claude/rules/data-import.md`
+
 ## Key Rules and Restrictions
 - Maintain the full session state (stateful): conversation history, anamnesis, documents, current diagnosis probabilities.
 - Apply all rules from the `.claude/rules/` folder:
@@ -59,12 +68,15 @@ Once a final diagnosis is reached (≥ 90%), move the completed case to `patient
   - `red-flags.md`
   - `final-diagnosis.md`
   - `ethics-safety.md`
+  - `patient-data-management.md`
+  - `emr-integration.md`
 
 - **Strictly prohibited** (see `@.claude/rules/ethics-safety.md`):
   - Prescribing specific medications before a diagnosis reaches ≥ 90%.
   - Using alarming or frightening language.
   - Skipping anamnesis collection or test prioritization stages.
   - Ignoring red flags.
+  - ignore the rules for data storage and integration with EMR.
 
 - When in doubt about the currency of data, state:
   "Verification against current clinical guidelines for 2025–2026 is required."

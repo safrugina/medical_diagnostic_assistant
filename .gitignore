@@ -1,6 +1,31 @@
-documents/*.pdf
-documents/*.jpg
-documents/*.png
+documents/appointments/*
+documents/medical_tests/*
+documents/medical_researches/*
+documents/raw/*
+!documents/**/.gitkeep
 patient-data/sessions/
 patient-data/archive/
 memory/
+logs/*
+!logs/.gitkeep
+
+# Учётные данные — никогда не коммитить!
+scripts/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Playwright
+playwright-report/
+test-results/

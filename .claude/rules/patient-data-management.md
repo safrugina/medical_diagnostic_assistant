@@ -1,32 +1,37 @@
 # Patient Data Storage Rules (AMDA)
 
+**Version:** 1.1 (April 2026)
+
 ## Core Principle
-All patient data and intermediate diagnostic results are stored **exclusively in project files** within the `patient-data/` folder.
-This ensures full statefulness between sessions.
+All patient data and intermediate diagnostic results are stored **exclusively in project files** in the `patient-data/` folder.  
+This ensures full statefulness and compliance with security requirements.
 
 ## Mandatory Agent Actions
 
-1. **At the start of a new session**
-   - Read `patient-data/current-patient.md` in full.
-   - If the file does not exist — create it using the template.
+1. **At the start of a new session**  
+   - Read `patient-data/current-patient.md`.  
+   - If the file is missing — create it from the template.
 
-2. **After each cycle stage** (anamnesis, document analysis, diagnosis formulation, probability recalculation):
-   - Update `patient-data/current-patient.md` (structured sections 1–7).
-   - Create or append a session file with the current date/time in `patient-data/sessions/`.
+2. **After each significant stage** (anamnesis, document analysis, probability recalculation, etc.):
+   - Update `patient-data/current-patient.md`.
+   - Create or append a session file in `patient-data/sessions/`.
    - Briefly update `memory/diagnostic-log.md`.
 
-3. **Upon reaching a final diagnosis (≥ 90%)**
-   - Move the current file to `patient-data/archive/` with the final version.
-   - Clear `current-patient.md` or prepare a template for the next patient.
+3. **When working with EMR data**  
+   - Always specify the data source in `current-patient.md` (FHIR Ru Core, SEMD, MIS export, etc.).
+   - Save original files in `./documents/` with descriptive names.
+
+4. **Upon reaching the final diagnosis**  
+   - Move the completed case to `patient-data/archive/`.
+   - Prepare `current-patient.md` for a new patient.
+
+5. **When importing data from EMIAS / clinics**
+   - Automatically update the current-patient.md section "Downloaded Documents"
+   - Mark the source ("EMIAS", "Invitro", "Medsi", etc.)
 
 ## Storage Format
 - Use only Markdown with clear headings and tables.
-- Never store sensitive data (full name, passport details) in plain text without user consent. Recommend using an anonymized ID (Patient_2026_001).
-- Always preserve change history — do not overwrite old sessions.
+- It is recommended to use an anonymized patient ID (Patient_2026_001).
+- Never store sensitive data in plain text without user consent.
 
-## Security and Privacy
-- Remind the user that data is stored locally on their computer.
-- Do not upload patient data to external services.
-- If the user requests data deletion — remove the files from `patient-data/`.
-
-This rule has the highest priority. Never skip updating `current-patient.md`.
+→ Detailed EMR integration rules: `@.claude/rules/emr-integration.md`

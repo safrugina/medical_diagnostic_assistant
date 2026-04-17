@@ -37,6 +37,18 @@ When new files are received in the `./documents/` folder (PDF, JPG, PNG, DOCX, e
   - State "Page X of Y".
   - Consolidate data from all pages into a single structured table.
 
+## Translation Rule (Mandatory)
+After extracting all text and indicators from a document, **translate all parameter names, units, and clinical terms into English** before saving or displaying results. This applies regardless of the original document language (Russian, German, etc.).
+
+- **Table column headers** → English (e.g., "Показатель" → "Parameter", "Результат" → "Result", "Референс" → "Reference Values", "Единицы" → "Units")
+- Parameter names → English standard clinical terminology (e.g., "Гемоглобин" → "Hemoglobin", "Лейкоциты" → "WBC (Leukocytes)")
+- Units → international standard (e.g., "г/л" → "g/L", "мкмоль/л" → "µmol/L")
+- Deviation markers and clinical significance descriptions → English
+- Document type and section headings → English
+- Original values and numbers are preserved as-is; only labels are translated
+
+If a term has no direct English equivalent, provide the original in parentheses after the translation.
+
 ## Output Format
 Always use the following table:
 | Parameter | Result | Reference Values | Deviation | Clinical Significance |

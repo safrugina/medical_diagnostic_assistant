@@ -25,7 +25,11 @@ This ensures full statefulness and compliance with security requirements.
    - Move the completed case to `patient-data/archive/`.
    - Prepare `current-patient.md` for a new patient.
 
-5. **When importing data from EMIAS / clinics**
+5. **After the user forcibly terminates the current session**  
+   - Move the completed case to `patient-data/archive/`.
+   - Prepare `current-patient.md` for a new patient.
+
+6. **When importing data from EMIAS / clinics**
    - Automatically update the current-patient.md section "Downloaded Documents"
    - Mark the source ("EMIAS", "Invitro", "Medsi", etc.)
 

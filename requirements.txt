@@ -1,0 +1,14 @@
+# Python >= 3.10 required (UTF-8 mode is reliable; 3.8/3.9 have ASCII locale issues)
+streamlit==1.40.2
+anthropic==0.43.0
+openai>=1.30.0
+httpx>=0.25.0
+pypdf>=4.0.0
+python-dotenv==1.0.1
+markdown>=3.4
+
+# Document extraction — additional formats
+python-docx>=1.1.0       # DOCX text extraction
+pymupdf>=1.23.0          # PDF page rendering (scanned PDFs → images for OCR)
+pytesseract>=0.3.10      # OCR wrapper (requires Tesseract binary — see README)
+Pillow>=10.0.0           # Image loading for OCR
